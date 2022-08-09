@@ -14,3 +14,5 @@ I'm a FrontEnd Engineer, and Financial Analyst. I'm passionate about sharing kno
 - 📫 You can [view my resume](#) and contact me by emailing raufutoheeb17476@gmail.com.
 
 ---
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Teenery&show_icons=true&include_all_commits=true&hide_border=true" alt="Teenery's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teenery&langs_count=8&layout=compact&hide_border=true" alt="Teenery's GitHub stats" /> |
+| ------------- | ------------- |
